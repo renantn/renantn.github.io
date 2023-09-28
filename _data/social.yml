@@ -27,6 +27,7 @@ instagram:
 whatsapp:
   name: WhatsApp
   icon: icon-whatsapp
+  prepend: 'https://wa.me/'
 spotify:
   name: Spotify
   icon: icon-spotify
