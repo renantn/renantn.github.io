@@ -37,7 +37,7 @@ author: Renan Nakashima
 
 <!--author-->
 
-I've always been a curious person. Naturally, this led me to become interested in areas related to science, technology, engineering, and mathematics (STEM). My passion for computers and games led me to study Computer Engineering at a public university in Brazil.
+I've always been a curious person. This naturally led me to become interested in areas related to science, technology, engineering, and mathematics (STEM). My passion for computers and games led me to study Computer Engineering at a public university in Brazil.
 
 Delving deep into the world of the computer - one of the most incredible innovations in history - has been a rewarding journey. The ability to create solutions for a variety of challenges motivated me to specialize in software development.
 
