@@ -1,0 +1,27 @@
+# Jekyll cache and build files
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Auto-generated Jekyll files
+_site/
+.jekyll/
+
+# Log files
+log/
+*.log
+
+# OS or editor generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+_node_modules/
+vendor/
+
+# Environment-specific settings
+.env
+.env.*
+
+# Optional: Exclude your config file if it contains sensitive information
+# _config.yml
