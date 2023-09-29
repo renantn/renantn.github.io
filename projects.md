@@ -1,32 +1,28 @@
 ---
-layout:          page
+layout:          list
 title:           Projects
 ---
 
+## IsoFarm - AG Application Manager
 
-## Projetos
+<img src="/assets/img/isofarm.png" alt="IsoFarm Project" align="left" width="240" class="venture-img">
 
-## Empreendedorismo
+In leading the IsoFarm project, I orchestrated the development of a dynamic web portal tailored for the comprehensive management of agricultural applications. Utilizing file uploads from Agres equipment, IsoFarm allows for a thorough evaluation of diverse agricultural operations. It encompasses features such as speed maps, application details, and the ability to review completed tasks through replays. Beyond these features, IsoFarm provides field-specific weather forecasts and real-time monitoring capabilities for machine operations. This project showcases my leadership in leveraging technology to enhance agricultural efficiency.
 
+## IsoLink - Telematics for AG Machines
 
-## Entrepreneurial Ventures
+<img src="/assets/img/vtbox.webp" alt="IsoLink Project" align="left" width="240" class="venture-img">
 
-### TAIZO Informática - Your Gaming and Computer Gear Destination
+As the team lead for Telematics, I spearheaded the development of an embedded module directly installed on machines, capturing crucial data from the machine bus. This module seamlessly integrates with IsoFarm and IsoView, enabling real-time monitoring of equipment functionality and operator activities. This is technology for efficient monitoring and control of agricultural machinery.
 
-In addition to my software engineering career, I am the founder of **TAIZO Informática**, an ecommerce platform that caters to gaming and computer enthusiasts. TAIZO Informática is your one-stop destination for high-quality gaming and computer equipment. We provide a wide range of products, including cutting-edge gaming peripherals, powerful hardware components, and much more. Our mission is to empower gamers and computer enthusiasts with the tools they need to excel in their passion.
+## IsoView - Machine Virtual Guide for AG Applications
 
-[Visit TAIZO Informática](https://www.taizoinformatica.com)
+<img src="/assets/img/isoview.webp" alt="IsoView Project" align="left" width="240" class="venture-img">
 
-### Square IT - Your Partner in Technology Solutions
+As a key contributor to IsoView, I played a crucial part in creating support for multi-language functionality within a memory-constrained embedded system, along with overseeing the overall codebase maintenance. IsoView significantly enhances operational efficiency by providing precise control over product application in the field, navigating parallel trajectories and supporting a spectrum of field operations. Beyond its primary function, IsoView ensures optimal liquid input application, strategically preventing overlaps.
 
-I am excited to introduce my latest venture, **Square IT**. Square IT is a dynamic and innovative company specializing in technology consulting and software development services. As a software house, we are dedicated to providing tailored solutions to businesses seeking to harness the power of technology to drive growth and efficiency.
+## Irrigation Management App
 
-Our services include:
+<img src="/assets/img/vintality.png" alt="Vintality Project" align="left" width="240" class="venture-img">
 
-- **Consulting:** We offer strategic technology consulting to help businesses identify opportunities for improvement and innovation.
-
-- **Software Development:** Our expert team is equipped to develop custom software solutions that align with your business goals.
-
-At Square IT, we believe that technology should be an enabler, not a barrier, to your success. We are committed to delivering top-notch solutions that help you stay ahead in today's fast-paced digital landscape.
-
-[Learn More about Square IT](https://www.squareit.com)
+Within this team, I was responsible the development of a mobile app for a precision irrigation management system designed specifically for vineyards. My responsibilities included the creation of a seamlessly integrated mobile application with a telemetry system attached to the irrigation network. This system enables real-time monitoring of irrigation activities, timely fault detection, and alerts for weather conditions.
