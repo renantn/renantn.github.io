@@ -1,13 +1,12 @@
 ## Ventures
-
+<!-- 
 ### Square IT - Your Partner in Technology Solutions
 
 <img src="/assets/img/logo-squareit.svg" alt="Square IT Company Logo" align="left" width="180" class="venture-img">
 
 **Square IT** specializes in information technology consulting and software development services. We offer strategic technology consulting and develop custom software solutions that align with your business goals. With proficient project management, we ensure the seamless execution of your initiatives. At Square IT, we believe that technology should be an enabler, not a barrier, to your success. We are committed to delivering top-notch solutions that help you stay ahead in today's fast-paced digital landscape.
 
-[Learn More about Square IT](https://www.squareit.tech)
-
+[Learn More about Square IT](https://www.squareit.tech) -->
 
 
 ### TAIZO Informática - Your Gaming and Computer Gear Destination
