@@ -57,16 +57,16 @@ Results-driven Software Engineer with over 5 years of experience excelling in th
 *Universidade Tecnológica Federal do Paraná*, Curitiba, Brazil<br/>
 *Mar 2018 - Dec 2020*
 
-- Developed a low-cost IoT proof-of-concept for House Automation.
-- Developed a low-cost research platform for Multi-Robot Systems.
+- Developed an innovative Auction-Based Algorithm for Real-Time Task Allocation in Multi-Robot Systems.
+- Published more than 4 papers, 2 of them in prestigious Journals.
+- Presented my latest results at Congresso Brasileiro de Automática - CBA 2018.
 
 **Bachelor's Degree in Computer Engineering**<br/>
 *Universidade Tecnológica Federal do Paraná*, Curitiba, Brazil<br/>
 *Mar 2010 - Sep 2017*
 
-- Developed an innovative Auction-Based Algorithm for Real-Time Task Allocation in Multi-Robot Systems.
-- Published more than 4 papers, 2 of them in prestigious Journals.
-- Presented my latest results at Congresso Brasileiro de Automática - CBA 2018.
+- Developed a low-cost IoT proof-of-concept for House Automation.
+- Developed a low-cost research platform for Multi-Robot Systems.
 
 
 ## Languages
