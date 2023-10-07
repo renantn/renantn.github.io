@@ -56,16 +56,16 @@ Engenheiro de Software com mais de 5 anos de experiência comprovada no desenvol
 *Universidade Tecnológica Federal do Paraná*, Curitiba, Brasil<br/>
 *Mar 2018 - Dez 2020*
 
-- Desenvolveu um conceito de IoT de baixo custo para Automação Residencial.
-- Desenvolveu uma plataforma de pesquisa de baixo custo para Sistemas Multi-Robôs.
+- Desenvolveu um inovador Algoritmo de Leilão para Alocação de Tarefas em Tempo Real em Sistemas Multi-Robôs.
+- Publicou mais de 4 artigos, sendo 2 em periódicos de prestígio.
+- Apresentou seus resultados mais recentes no Congresso Brasileiro de Automática - CBA 2018.
 
 **Bacharelado em Engenharia de Computação**<br/>
 *Universidade Tecnológica Federal do Paraná*, Curitiba, Brasil<br/>
 *Mar 2010 - Set 2017*
 
-- Desenvolveu um inovador Algoritmo de Leilão para Alocação de Tarefas em Tempo Real em Sistemas Multi-Robôs.
-- Publicou mais de 4 artigos, sendo 2 em periódicos de prestígio.
-- Apresentou seus resultados mais recentes no Congresso Brasileiro de Automática - CBA 2018.
+- Desenvolveu um conceito de IoT de baixo custo para Automação Residencial.
+- Desenvolveu uma plataforma de pesquisa de baixo custo para Sistemas Multi-Robôs.
 
 ## Idiomas
 ---

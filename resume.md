@@ -73,3 +73,4 @@ Results-driven Software Engineer with over 5 years of experience excelling in th
 ---
 - English (C1/C2)
 - Brazilian Portuguese (Native)
+- German (Basic)
