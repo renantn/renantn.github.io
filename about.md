@@ -88,4 +88,4 @@ Throughout my career, I've had the privilege of working with a diverse tech stac
 
 ## Let's Collaborate
 
-I am always open to new challenges and collaboration opportunities. If you'd like to connect, discuss potential projects, or explore how we can work together to innovate and create, please feel free to [reach out!](mailto:youremail@example.com)
+I am always open to new challenges and collaboration opportunities. If you'd like to connect, discuss potential projects, or explore how we can work together to innovate and create, please feel free to [reach out!](mailto:renan.nakashima@pipenex.com)
