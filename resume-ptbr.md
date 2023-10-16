@@ -12,7 +12,7 @@ layout: page
 
 ## Resumo
 ---
-Engenheiro de Software com mais de 5 anos de experiência comprovada no desenvolvimento de soluções tecnológicas inovadoras. Trabalhou em projetos de telemetria, web e software embarcado. Atuou como líder técnico por dois anos. Comprometido em alavancar a tecnologia para precisão e produtividade. Aberto a novos desafios e colaborações, com paixão por causar um impacto significativo tanto na tecnologia quanto no empreendedorismo.
+Engenheiro de Software com mais de 7 anos de experiência comprovada no desenvolvimento de soluções tecnológicas inovadoras. Trabalhou em projetos de telemetria, web e software embarcado. Atuou como líder técnico por dois anos. Comprometido em alavancar a tecnologia para precisão e produtividade. Aberto a novos desafios e colaborações, com paixão por causar um impacto significativo tanto na tecnologia quanto no empreendedorismo.
 
 ## Habilidades
 ---

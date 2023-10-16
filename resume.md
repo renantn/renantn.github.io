@@ -12,7 +12,7 @@ layout: page
 
 ## Summary
 ---
-Results-driven Software Engineer with over 5 years of experience excelling in the development of innovative technology solutions. Proven expertise includes telemetry projects, web dashboards, and embedded software. Adept in a diverse tech stack, demonstrating leadership as a tech lead for two years. Committed to leveraging technology for precision and productivity. Open to new challenges and collaborations, with a passion for making a meaningful impact in both technology and entrepreneurship.
+Results-driven Software Engineer with over 7 years of experience excelling in the development of innovative technology solutions. Proven expertise includes telemetry projects, web dashboards, and embedded software. Adept in a diverse tech stack, demonstrating leadership as a tech lead for two years. Committed to leveraging technology for precision and productivity. Open to new challenges and collaborations, with a passion for making a meaningful impact in both technology and entrepreneurship.
 
 
 ## Skills
