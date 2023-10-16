@@ -4,7 +4,7 @@ layout: page
 # Renan Taizo Nakashima
 
 <div style="display: flex; flex-direction: column">
-  <span><strong>Email</strong>: renan.nakashima@squareit.tech</span>
+  <span><strong>Email</strong>: renan.taizo@gmail.com</span>
   <span><strong>Telefone</strong>: +5541991624061</span>
   <span><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/renantn">https://www.linkedin.com/in/renantn</a></span>
   <span><strong>Github</strong>: <a href="https://github.com/renantn">https://github.com/renantn</a></span>
@@ -12,7 +12,7 @@ layout: page
 
 ## Resumo
 ---
-Engenheiro de Software com mais de 5 anos de experiência comprovada no desenvolvimento de soluções tecnológicas inovadoras. Trabalhou em projetos de telemetria, web e software embarcado. Atuou como líder técnico por dois anos. Comprometido em alavancar a tecnologia para precisão e produtividade. Fundador da TAIZO Informática, uma plataforma de comércio eletrônico que atende entusiastas de jogos e computadores, e criador da Square IT, uma empresa dinâmica que oferece consultoria em tecnologia e serviços de desenvolvimento de software. Aberto a novos desafios e colaborações, com paixão por causar um impacto significativo tanto na tecnologia quanto no empreendedorismo.
+Engenheiro de Software com mais de 5 anos de experiência comprovada no desenvolvimento de soluções tecnológicas inovadoras. Trabalhou em projetos de telemetria, web e software embarcado. Atuou como líder técnico por dois anos. Comprometido em alavancar a tecnologia para precisão e produtividade. Aberto a novos desafios e colaborações, com paixão por causar um impacto significativo tanto na tecnologia quanto no empreendedorismo.
 
 ## Habilidades
 ---
